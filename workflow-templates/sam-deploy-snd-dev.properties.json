@@ -1,0 +1,12 @@
+{
+    "name": "SAM Deploy SND DEV Workflow",
+    "description": "Deploys a SAM stack to SND, SND2, DEV, DEV2",
+    "iconName": "AWS_Simple_Icons_AWS_Cloud",
+    "categories": [
+        "TypeScript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "template.yml$"
+    ]
+}
