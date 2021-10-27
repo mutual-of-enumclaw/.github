@@ -7,6 +7,6 @@
     ],
     "filePatterns": [
         "package.json$",
-        "template.yml$"
+        "template.ya?ml$"
     ]
 }
